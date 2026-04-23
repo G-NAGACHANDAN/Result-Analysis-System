@@ -297,14 +297,21 @@ Potential features for expansion:
 
 ---
 
-## 📞 Support
+---
 
-For issues or questions:
-1. Check this README for common solutions
-2. Review the code comments for implementation details
-3. Ensure all requirements are installed correctly
-4. Verify input file format matches the requirements
+## 👤 Developer
+
+**G Nagachandan**
+*Computer Science Engineering Student*
+
 
 ---
 
-**Built with ❤️ for Education | Python + Streamlit | Complete & Production-Ready**
+## 🛡️ License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+Copyright (c) 2026 G Nagachandan
+
+---
+
